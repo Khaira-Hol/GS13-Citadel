@@ -4035,6 +4035,7 @@
 #include "GainStation13\code\modules\cargo\bounties\assistant.dm"
 #include "GainStation13\code\modules\cargo\bounties\mining.dm"
 #include "GainStation13\code\modules\client\border_control.dm"
+#include "GainStation13\code\modules\client\client.dm"
 #include "GainStation13\code\modules\client\loadout\head.dm"
 #include "GainStation13\code\modules\client\loadout\uniform.dm"
 #include "GainStation13\code\modules\client\preferences\preferences.dm"
